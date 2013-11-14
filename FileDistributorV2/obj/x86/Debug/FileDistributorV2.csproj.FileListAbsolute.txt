@@ -1,0 +1,6 @@
+C:\Jen\Project\StaticTestDiff\FileDistributorV2\FileDistributorV2\bin\Debug\FileDistributorV2.exe
+C:\Jen\Project\StaticTestDiff\FileDistributorV2\FileDistributorV2\bin\Debug\FileDistributorV2.pdb
+C:\Jen\Project\StaticTestDiff\FileDistributorV2\FileDistributorV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jen\Project\StaticTestDiff\FileDistributorV2\FileDistributorV2\obj\x86\Debug\FileDistributorV2.exe
+C:\Jen\Project\StaticTestDiff\FileDistributorV2\FileDistributorV2\obj\x86\Debug\FileDistributorV2.pdb
+C:\Jen\Project\StaticTestDiff\FileDistributorV2\FileDistributorV2\bin\Debug\FileDistributorV2.exe.config
